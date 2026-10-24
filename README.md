@@ -19,7 +19,7 @@ The website contains four HTML pages. Each page has a different purpose, making 
 | `js/`           | Stores JavaScript files for interactive features.                    |
 | `README.md`     | Explains the project, its files, and its author.                     |
 
-## How to Open the Project
+ How to Open the Project
 
 1. Download or clone the repository.
 2. Open the `qso-practice-project` folder.
@@ -30,7 +30,7 @@ No additional software is required to view the basic HTML pages in a modern web 
 
 Author
 
-Awa Gaye**
+Awa Gaye
 
 ND Computer Science student at Civil Service University.
 
